@@ -1,3 +1,3 @@
 # Install
       $ npm install 
-![](img_girl.jpg)
+![](PreProgram.jpg)
